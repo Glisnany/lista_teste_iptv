@@ -1,0 +1,31 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://eagle.co.ug/wp-content/uploads/2016/04/breaking-news.jpg" group-title="CANAIS | NOTICIAS",NOTICIAS
+https://gist.githubusercontent.com/spinabr/3eca8459e0187a1a76bf0243b33c781b/raw/
+
+#EXTINF:-1 tvg-logo="http://greensrv.site/media/logos/baby-tv.png" group-title="CANAIS | INFANTIS",SERIES
+https://p.teknik.io/Raw/DWLwJ
+
+#EXTINF:-1 tvg-logo="http://greensrv.site/media/logos/baby-tv.png" group-title="CANAIS | INFANTIS",normal
+https://www.youtube.com/watch?v=VOw7bts_rGQ
+
+#EXTINF:-1 tvg-logo="https://eagle.co.ug/wp-content/uploads/2016/04/breaking-news.jpg" group-title="testes",TV (BRASIL)
+https://gist.githubusercontent.com/spinabr/ce2f832f93db5ff7c153ae306e75d386/raw/7ae9f486f2de1e2f314bf066758cffee34abab80/TV%2520BRASIL
+
+#EXTINF:-1 tvg-logo="https://eagle.co.ug/wp-content/uploads/2016/04/breaking-news.jpg" group-title="testes",Filmes (BRASIL)
+https://gist.githubusercontent.com/spinabr/1d0b05363c83ccd0763ac495f8b74ae4/raw/7c6e8733ca7d12fa500b91497d8553628fbf22ed/IPTV-ALTRI.m3u
+
+#EXTINF:-1 tvg-logo="https://eagle.co.ug/wp-content/uploads/2016/04/breaking-news.jpg" group-title="testes",Filmes (BRASIL) REGEX
+https://gist.githubusercontent.com/spinabr/1d0b05363c83ccd0763ac495f8b74ae4/raw/8e0cfa27e2f21ccf0834e55599daf3fa18f8cee7/IPTV-ALTRI.m3u
+
+#EXTINF:-1 tvg-logo="https://eagle.co.ug/wp-content/uploads/2016/04/breaking-news.jpg" group-title="testes",Filmes 1
+https://raw.githubusercontent.com/Alejandro-Pereira/-Team/master/FILMES%20BR
+
+#EXTINF:-1 tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Purple128/v4/79/7a/fa/797afae4-dd72-b2d8-3ac8-ad10ce3f2e5e/AppIcon-85-220-0-0-0-0-4-0-0-0-2x-sRGB-0-0-0.png/1200x630bb.png" group-title="IPTV",TV (LISTA 1 IT)
+https://gist.githubusercontent.com/spinabr/eaad1f22e9d58a9c3d725b2869ab6c00/raw/5cabdab475d9954a9dbd519b09faa8281f43eac2/iptv_MOVEL.m3u
+
+#EXTINF:-1 tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Purple128/v4/79/7a/fa/797afae4-dd72-b2d8-3ac8-ad10ce3f2e5e/AppIcon-85-220-0-0-0-0-4-0-0-0-2x-sRGB-0-0-0.png/1200x630bb.png" group-title="IPTV",TV (LISTA 2 BR)
+https://gist.githubusercontent.com/spinabr/eaad1f22e9d58a9c3d725b2869ab6c00/raw/6639192c5e1e9bba4f0f0a6c791693277ce393b2/iptv_MOVEL.m3u
+
+#EXTINF:-1 tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Purple128/v4/79/7a/fa/797afae4-dd72-b2d8-3ac8-ad10ce3f2e5e/AppIcon-85-220-0-0-0-0-4-0-0-0-2x-sRGB-0-0-0.png/1200x630bb.png" group-title="Addon Terceiros",KM28
+https://pastebin.com/raw/f79tVWrf
